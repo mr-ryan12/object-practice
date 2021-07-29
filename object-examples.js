@@ -15,3 +15,12 @@ var animal = {
     isChewingMyCouch: true,
     toys: ['big rope', 'my shoe', 'squeeky fish']
 }
+
+var customer = {
+    height: "6'2",
+    colorShirt: 'Green',
+    isShopping: true,
+    isUsingCreditCard: false,
+    total: 29.92,
+    itemsBought: ['stick of gum', 'eggs', 'milk', 'bread']
+}
